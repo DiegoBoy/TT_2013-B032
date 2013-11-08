@@ -1,0 +1,10 @@
+# Compile destinations
+Debug/
+Release/
+
+# Files ending with ~
+*~
+
+# Eclipse project files
+.cproject
+.project
